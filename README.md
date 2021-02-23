@@ -1,2 +1,1 @@
-# bullcow-game
-BullCow Game from UE4 Course
+# 03_BullCowGame
